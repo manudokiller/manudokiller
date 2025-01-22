@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on multiple projects for a company, while also focusing on improving my physical health and developing my own business venture<br>🌱 I’m currently learning React<br>💬 Ask me about<br>⚡ Fun fact: Besides my work on various projects and improving my physical health, I occasionally stream on Twitch in my free time
+🔭 I am currently working on multiple projects for a company, while also focusing on improving my physical health and developing my own business venture<br>🌱 I’m currently learning React<br>💬 Ask me about technology, history, video games, and politics.<br>⚡ Fun fact: Besides my work on various projects and improving my physical health, I occasionally stream on Twitch in my free time
 
 
 ## 🌐 Socials:
